@@ -7,5 +7,8 @@ I'm using this repo to practice, stay consistent, and build strong fundamentals 
 
 ---
 
-## 📂 Repo Structure
+
+| Day | Topic  | Problem  | Language | Solution |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | Arrays | Two Sum | Java | [View Code]([./Arrays/01_TwoSum.java](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/commit/084f27a9b46e35cc877a9fca0c7e3ceee85746a9)) |
 
