@@ -10,6 +10,6 @@ I'm using this repo to practice, stay consistent, and build strong fundamentals 
 
 | Day | Topic  | Problem  | Language | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | Arrays | Two Sum | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/TWO_SUM_java-code) |
+| 01 (23-02-26) | Arrays | Two Sum | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/TWO_SUM_java-code) |
 | 01 | Arrays | Contains Duplicate | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Contains_Duplicate.java) |
 
