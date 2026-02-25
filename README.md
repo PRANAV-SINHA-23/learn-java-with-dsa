@@ -14,4 +14,4 @@ I'm using this repo to practice, stay consistent, and build strong fundamentals 
 | 01 | Arrays | Contains Duplicate | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Contains_Duplicate.java) |
 | 01 | Arrays | Best Time to Buy/Sell Stock | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |
 | 02 | Arrays | Maximum Subarray (Kadane's) | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Maximum%20Subarray) |
-
+| 03 | Arrays | Product of Array Except Self | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Product%20Except%20Self) |
