@@ -17,3 +17,4 @@ I'm using this repo to practice, stay consistent, and build strong fundamentals 
 | 03 | Arrays | Product of Array Except Self | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Product%20Except%20Self) |
 | 04 | Arrays | Two Sum II (Sorted Array) | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/commit/d56e1aba78bed68c3cf4dfe0458f35a8b8b1509e) |
 | 07 | Strings | Valid Palindrome | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/valid%20palindrome) |
+| 07 | Arrays | Move Zeroes | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/commit/d44181043f203570893581e1ec4346b40b9d5a9b) |
