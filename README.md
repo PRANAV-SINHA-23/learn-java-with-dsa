@@ -20,4 +20,4 @@ I'm using this repo to practice, stay consistent, and build strong fundamentals 
 | 07 | Arrays | Move Zeroes | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/commit/d44181043f203570893581e1ec4346b40b9d5a9b) |
 | 08 | Arrays | removeDuplicates | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/removeDuplicates) |
 | 08 | Arrays | Container With Most Water | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Container%20With%20Most%20Water) |
-| 08 | stacks |  Valid Parentheses | Java | [View Code](| 08 | Arrays | Container With Most Water | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Container%20With%20Most%20Water) |
+| 08 | stacks |  Valid Parentheses | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Valid%20Parentheses) |
