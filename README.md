@@ -21,4 +21,4 @@ I'm using this repo to practice, stay consistent, and build strong fundamentals 
 | 08 | Arrays | removeDuplicates | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/removeDuplicates) |
 | 08 | Arrays | Container With Most Water | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Container%20With%20Most%20Water) |
 | 08 | stacks |  Valid Parentheses | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Valid%20Parentheses) |
-| 15 | stacks |   Implement Queue using Stacks | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/tree/main) |
+| 15 | stacks |   Implement Queue using Stacks | Java | [View Code](https://github.com/PRANAV-SINHA-23/learn-java-with-dsa/blob/main/Implement%20Queue%20using%20Stacks) |
